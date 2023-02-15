@@ -78,13 +78,13 @@ else
       <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content=""width=device-width, initial-scale="1.0" />
-        <meta http-equiv=""X-UA-Compatible" content=""ie=edge" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
         <link rel="stylesheet" href="style.css" />
         <title>TypeScripting</title>
       </head>
       <body>
-        <h1 class=""intro">This is a Heading</h1>
-        <p class=""subheading">This is a paragraph.</p>
+        <h1 class="intro">This is a Heading</h1>
+        <p class="subheading">This is a paragraph.</p>
         <div class="inputs">1st #: <input type="number" class="math1" /></div>
         <div class="inputs">2nd #: <input type="number" class="math2" /></div>
         <div class="button">Calculate Sum</div>
